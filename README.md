@@ -19,7 +19,7 @@ A simple task management web application built with **React**, **Redux Toolkit**
 * **State Management**: Redux Toolkit
 * **Drag & Drop**: @hello-pangea/dnd
 * **API Communication**: Axios
-* **Backend**: Laravel 8 (REST API)
+* **Backend**: PHP 8.0+, Laravel 8 (REST API)
 
 ---
 
