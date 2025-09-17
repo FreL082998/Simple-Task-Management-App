@@ -15,11 +15,11 @@ A simple task management web application built with **React**, **Redux Toolkit**
 
 ## Tech Stack
 
-* **Frontend**: React, TypeScript, Tailwind CSS
+* **Frontend**: React, TypeScript, Tailwind CSS, Node v16.20.2
 * **State Management**: Redux Toolkit
 * **Drag & Drop**: @hello-pangea/dnd
 * **API Communication**: Axios
-* **Backend**: REST API (Laravel/Lumen or any RESTful service)
+* **Backend**: REST API (Laravel 8 or any RESTful service)
 
 ---
 
@@ -67,8 +67,8 @@ Assuming a REST API backend, the endpoints used are:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/kanban-board.git
-   cd kanban-board
+   git clone https://github.com/FreL082998/Simple-Task-Management-App
+   cd Simple-Task-Management
    ```
 
 2. **Install dependencies:**
