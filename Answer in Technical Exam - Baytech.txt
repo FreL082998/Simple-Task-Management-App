@@ -1,0 +1,20 @@
+Start: 2025-09-17 05:30 AM
+End: 2025-09-17 09:30 AM
+
+
+#2
+
+In safari browser the text doesn't properly structure and the words are awkwardly separated while in chrome the formatting is clear and readable. Word wrapping, line breaks, and space are all interpreted differently in Safari than in Chrome.
+
+To fix this issue:
+1. Update the frontend CSS to handle line breaks consistently across browsers.
+2. Standardize the chatbot’s backend output either replaced newline into <br> tags or wrapped in <pre>.
+3. Test across Chrome, Safari, Firefox, and Edge to confirm consistent results.
+4. Use testing tool like browerstack for better understanding and debugging.
+
+#3
+
+The form is not displaying correctly and seems the layout is broken. Fields are misaligned this makes it harder for the users to complete the form.
+The form should be expected display clean with all fields are properly aligned can be fill out without any user confusion.
+The form layout design was not render as intended.
+We'll update and fix the form's layout design. Once fixed, the form will look properly aligned and easy to use.

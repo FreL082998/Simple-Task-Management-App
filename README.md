@@ -81,7 +81,7 @@ Assuming a REST API backend, the endpoints used are:
    ```env
     APP_NAME=Laravel
     APP_ENV=local
-    APP_KEY=base64:uc8ejaPvyEdRr8P8bm7VO4uJecTwDZ9daiFq+Iv8fq0=
+    APP_KEY=
     APP_DEBUG=true
     APP_URL=http://localhost
 
